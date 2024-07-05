@@ -57,4 +57,7 @@ public class GameplayManager : MonoBehaviour
 
         Debug.Log("Score: " + score);
     }
+
+    
+
 }
